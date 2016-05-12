@@ -364,6 +364,7 @@ Full-Width Styles
 
 #content_cv{
   margin-bottom:-8px;
+  min-width: 1010px;
   background: #233658;
 }
 
