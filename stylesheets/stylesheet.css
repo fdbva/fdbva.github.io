@@ -437,3 +437,27 @@ Small Device Styles
   }
 
 }
+
+/*******************************************************************************
+Custom
+*******************************************************************************/
+
+a.header-language:link {
+  color: azure;
+}
+
+a.header-language:visited {
+  color: white;
+}
+
+a.header-language:hover {
+  color: burlywood;
+}
+
+a.header-language:active {
+  color: mintcream;
+}
+
+span.break {
+  color: white;
+}
